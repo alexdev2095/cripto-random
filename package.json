@@ -12,6 +12,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.62.8",
     "@tanstack/react-query-devtools": "^5.62.8",
+    "cripto-random": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
